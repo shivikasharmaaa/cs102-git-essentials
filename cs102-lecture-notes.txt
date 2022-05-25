@@ -3,3 +3,7 @@ git push- The git push command is used to upload local repository content to a r
 git pull- git pull is a Git command used to update the local version of a repository from a remote.
 git add- The git add command adds a file to the Git staging area.
 git init- Initialises an empty repository
+Summary
+In the lecture, we learnt about VS Code and markdown. VS Code is a streamlined code editor with support for development operations like debugging, task running, and version control. VS Code stands for Visual Studio Code. It provides all the tools that a developer might need for quick code, build, debug cycle and leaves more complex workflow to fuller featured IDEs. VS Code can be used for multiple purposes. It can be used for developments in various languages, all you need to do is install the extensions required as per your requiremenets. It can also be used to edit text files, csv files, etc.
+
+There are quite a few markup languages to exist, one such is markdown. Markdown is a lightweight markup language for creating formatted text using a plain text editor. It is widely used in blogging, instant messaging, online forums, collaborative software, collaborative software, documentation pages and readme files.
