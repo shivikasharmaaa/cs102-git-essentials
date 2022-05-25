@@ -1,0 +1,5 @@
+git commit- The git commit command captures a snapshot of the project's currently staged changes.
+git push- The git push command is used to upload local repository content to a remote repository.
+git pull- git pull is a Git command used to update the local version of a repository from a remote.
+git add- The git add command adds a file to the Git staging area.
+git init- Initialises an empty repository
